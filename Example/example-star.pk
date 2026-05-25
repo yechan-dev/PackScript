@@ -1,0 +1,19 @@
+const a = 5;
+let b = -5
+
+fn star (level){
+    if (level < 0) {
+        print ("Hey!");
+        return 0;
+    }
+
+    for (let i = 0; i < level; i ++){
+        for (let j = 0; j <= i; j ++){
+            print ("*");
+        }
+        print ("\n");
+    }
+}
+
+star (a);
+star (b);
