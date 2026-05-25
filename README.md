@@ -8,7 +8,7 @@
 ### How to use
 - Enter this code into your terminal. (It currently only works in the terminal)
 ```
-node pack.js yourfile.pk
+node packscript.js yourfile.pk
 ```
 
 ### Caution
