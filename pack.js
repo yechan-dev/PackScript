@@ -130,7 +130,7 @@ function codegen(value){
             else {
                 switch(current_token.value){
                     case "print":
-                        result += `console.log `;
+                        result += `process.stdout.write `;
                         break;
                     case "return":
                         result += `return `;
