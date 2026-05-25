@@ -1,0 +1,14 @@
+fn what_number (number) {
+    if (number % 2 == 0){
+        print("Even!");
+    }
+    elif (number % 2 != 0){
+        print("Odd!");
+    }
+    else {
+        print("Idk!");
+    }
+}
+
+what_number (3);
+what_number (2);
