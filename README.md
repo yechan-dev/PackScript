@@ -86,4 +86,10 @@ list = [1, 2, 3, 4, 5], ["Hello", 2, 3, "World"]
 ```
 dict = {"Key": "Value"}, {"name": "pack"}, {"count": 3}
 ```
+- Comments
+```
+# Hello
+// Hello
+```
+  
 ---
