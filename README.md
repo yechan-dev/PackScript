@@ -59,6 +59,9 @@ for (let i = 0; i < 5; i ++){
 while (true){
 
 }
+loop(5){
+
+}
 ```
 - Function
 ```
